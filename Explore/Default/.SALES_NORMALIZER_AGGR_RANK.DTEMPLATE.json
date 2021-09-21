@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "created mapping to use the normalizer , rank and aggregator transformation",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
