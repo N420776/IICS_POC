@@ -1,2 +1,2 @@
 # IICS_POC
-The repository is created to maintain the Versioning for IICS
+The repository is created to maintain the code for IICS
